@@ -1,6 +1,6 @@
 ## Drawing Together
 
-![graphic](/Users/jiyeon/Documents/Drawing Together/graphic.jpeg)
+![drawingtogether](https://user-images.githubusercontent.com/94834452/152948957-0cfa27f7-e33b-46c4-a03d-d10bf2743ac1.jpeg)
 
 드로잉투게더는 MQTT 프로토콜을 활용한 **실시간 드로잉 공유 앱** 입니다.
 
@@ -24,7 +24,7 @@
 
 ---
 
-![앱 구조](/Users/jiyeon/Documents/Drawing Together/앱 구조.png)
+![앱 구조](https://user-images.githubusercontent.com/94834452/152949198-ff72062b-1d6e-46fd-b7a8-4eb76c7aedc3.png)
 
 
 
@@ -32,7 +32,7 @@
 
 ---
 
-![스크린샷](/Users/jiyeon/Documents/Drawing Together/스크린샷.png)
+![스크린샷](https://user-images.githubusercontent.com/94834452/152949337-0e0fb190-d96c-497b-a172-79cdec03402e.png)
 
 
 
@@ -42,25 +42,25 @@
 
 - **참가자 관리 (회의방 생성, 참가, 삭제)**
 
-![참가자 관리](/Users/jiyeon/Documents/Drawing Together/참가자 관리.gif)
+![참가자 관리](https://user-images.githubusercontent.com/94834452/152953932-7b05e065-009d-4522-a2fe-20f2c4847a48.gif)
 
 
 
 - **다양한 방식으로 의사 전달 ( 드로잉, 텍스트, 이미지 )**
 
-![다양한 방식으로 의사 전달](/Users/jiyeon/Documents/Drawing Together/다양한 방식으로 의사 전달.gif)
+![드로잉](https://user-images.githubusercontent.com/94834452/152957744-a5b8800c-8b12-4500-9c50-f0466c165762.gif)
 
 
 
 - **오토드로우**
 
-![오토드로우](/Users/jiyeon/Documents/Drawing Together/오토드로우.gif)
+![오토드로우](https://user-images.githubusercontent.com/94834452/152949552-95c97840-a8a2-4383-a4b7-0930a6f7ba52.gif)
 
 
 
 - **와핑**
 
-![와핑](/Users/jiyeon/Documents/Drawing Together/와핑.gif)
+![와핑](https://user-images.githubusercontent.com/94834452/152949491-59401eae-2911-45b8-84c6-60f0a1e998a1.gif)
 
 
 
