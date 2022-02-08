@@ -42,25 +42,25 @@
 
 - **참가자 관리 (회의방 생성, 참가, 삭제)**
 
-![참가자 관리](https://user-images.githubusercontent.com/94834452/152953932-7b05e065-009d-4522-a2fe-20f2c4847a48.gif)
+![참가자 관리](https://user-images.githubusercontent.com/94834452/152960877-45f0a3c8-0990-4a95-99b5-45a6cc730f95.gif)
 
 
 
 - **다양한 방식으로 의사 전달 ( 드로잉, 텍스트, 이미지 )**
 
-![드로잉](https://user-images.githubusercontent.com/94834452/152957744-a5b8800c-8b12-4500-9c50-f0466c165762.gif)
+![드로잉](https://user-images.githubusercontent.com/94834452/152960927-ad97eb84-6a62-4c92-b8b2-d19650ef4dab.gif)
 
 
 
 - **오토드로우**
 
-![오토드로우](https://user-images.githubusercontent.com/94834452/152949552-95c97840-a8a2-4383-a4b7-0930a6f7ba52.gif)
+![오토드로우](https://user-images.githubusercontent.com/94834452/152960925-7cfe1405-1213-495d-9a4e-2142278b4f7f.gif)
 
 
 
 - **와핑**
 
-![와핑](https://user-images.githubusercontent.com/94834452/152949491-59401eae-2911-45b8-84c6-60f0a1e998a1.gif)
+![와핑](https://user-images.githubusercontent.com/94834452/152960919-620457dc-c619-4ec9-9f4f-c771861312b8.gif)
 
 
 
